@@ -11,7 +11,8 @@ Building reliable LLM systems in the real world — NLP-LLM applications, model 
 [![Faiss](https://img.shields.io/badge/Faiss-2C3E50)]()
 [![W&B](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?logo=weightsandbiases&logoColor=white)]()
 
-[![OpenClaw](https://img.shields.io/badge/OpenClaw-agent%20automation-ff5f5f)](https:
+[![OpenClaw](https://img.shields.io/badge/OpenClaw-agent%20automation-ff5f5f)]
+
 ---
 
 ## 🧭 Focus
