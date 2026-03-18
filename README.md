@@ -1,4 +1,4 @@
-![LLaMA Factory-Train_Finetune LLMs-8A2BE2](https://github.com/user-attachments/assets/055f38a9-8152-429a-8ec1-146d0b98b1ba)# Hi, I'm Jianqi Zi (JianqiZi) 👋
+# Hi, I'm Jianqi Zi (JianqiZi) 👋
 
 Building reliable LLM systems in the real world — NLP-LLM applications, model optimization & evaluation.
 📍 Beijing • Open to 2026/2027 summer internship
