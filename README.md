@@ -1,4 +1,4 @@
-# Hi, I'm Jianqi Zi (JianqiZi) 👋
+![LLaMA Factory-Train_Finetune LLMs-8A2BE2](https://github.com/user-attachments/assets/055f38a9-8152-429a-8ec1-146d0b98b1ba)# Hi, I'm Jianqi Zi (JianqiZi) 👋
 
 Building reliable LLM systems in the real world — NLP-LLM applications, model optimization & evaluation.
 📍 Beijing • Open to 2026/2027 summer internship
@@ -12,6 +12,7 @@ Building reliable LLM systems in the real world — NLP-LLM applications, model 
 [![W&B](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?logo=weightsandbiases&logoColor=white)]()
 
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-agent%20automation-ff5f5f)]()
+![Uploading LLaMA Factor<svg xmlns="http://www.w3.org/2000/svg" width="212" height="20" role="img" aria-label="LLaMA Factory: Train/Finetune LLMs"><title>LLaMA Factory: Train/Finetune LLMs</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="212" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="91" height="20" fill="#555"/><rect x="91" width="121" height="20" fill="#8a2be2"/><rect width="212" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="465" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="810">LLaMA Factory</text><text x="465" y="140" transform="scale(.1)" fill="#fff" textLength="810">LLaMA Factory</text><text aria-hidden="true" x="1505" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="1110">Train/Finetune LLMs</text><text x="1505" y="140" transform="scale(.1)" fill="#fff" textLength="1110">Train/Finetune LLMs</text></g></svg>y-Train_Finetune LLMs-8A2BE2.svg…]()
 
 ---
 
