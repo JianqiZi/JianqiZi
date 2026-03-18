@@ -47,8 +47,7 @@ CoT compression with multi-teacher distillation & inference acceleration; curves
 ![Streak](https://streak-stats.demolab.com?user=JianqiZi&theme=transparent)
 
 ## 📬 Contact
-- Email: your.name@example.com
-- Blog: (optional)
+- Email:  secert
 
 ---
 Clean repos, reproducible results, and honest metrics matter.
