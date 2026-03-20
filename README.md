@@ -1,7 +1,7 @@
 # Hi, I'm Jianqi Zi (JianqiZi) 👋
 
 Building reliable LLM systems in the real world — NLP-LLM applications, model optimization & evaluation.
-📍 Beijing • 
+
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)]()
